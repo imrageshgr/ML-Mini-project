@@ -104,11 +104,7 @@ MediaPipe
 
 NumPy
 
-📷 Screenshots (optional)
 
-You can add images here:
-
-![Demo Screenshot](demo.png)
 
 📌 Future Improvements (optional)
 
